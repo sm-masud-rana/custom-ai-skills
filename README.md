@@ -6,6 +6,7 @@ Reusable, plug-and-play AI skills for marketing and productivity. Each skill is 
 
 | Skill | What it does |
 |-------|--------------|
+| smart-task-assistant | Understands your casual/Banglish instructions and does the task — no questions |
 | ad-copy-generator | Writes high-converting ad copy |
 | seo-content-writer | Writes SEO-optimized content |
 | email-sequence-writer | Writes lifecycle email sequences |

@@ -33,7 +33,7 @@ Setting up a good AI assistant for every task is repetitive. These skills packag
 
 ## Skill structure
 
-Each skill folder follows the same clean layout:
+Every skill folder follows the same clean layout:
 
 ```
 skill-name/
@@ -41,8 +41,6 @@ skill-name/
 ├── README.md                # what it does + how to use
 └── sample-conversations.md  # before/after examples
 ```
-
-> ✅ `smart-task-assistant` is the reference skill, fully in this format. The other skills are being upgraded to match the same standard.
 
 ## Quick Start
 
